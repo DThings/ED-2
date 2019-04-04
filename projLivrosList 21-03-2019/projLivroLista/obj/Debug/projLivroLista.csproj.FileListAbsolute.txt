@@ -1,0 +1,7 @@
+C:\Users\Glow\Desktop\projLivroLista\projLivroLista\bin\Debug\projLivroLista.exe.config
+C:\Users\Glow\Desktop\projLivroLista\projLivroLista\bin\Debug\projLivroLista.exe
+C:\Users\Glow\Desktop\projLivroLista\projLivroLista\bin\Debug\projLivroLista.pdb
+C:\Users\Glow\Desktop\projLivroLista\projLivroLista\obj\Debug\projLivroLista.csprojAssemblyReference.cache
+C:\Users\Glow\Desktop\projLivroLista\projLivroLista\obj\Debug\projLivroLista.csproj.CoreCompileInputs.cache
+C:\Users\Glow\Desktop\projLivroLista\projLivroLista\obj\Debug\projLivroLista.exe
+C:\Users\Glow\Desktop\projLivroLista\projLivroLista\obj\Debug\projLivroLista.pdb
